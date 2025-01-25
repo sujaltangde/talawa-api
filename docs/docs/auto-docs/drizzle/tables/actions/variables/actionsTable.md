@@ -6,4 +6,4 @@
 
 > `const` **actionsTable**: `PgTableWithColumns`\<\{\}\>
 
-Defined in: [src/drizzle/tables/actions.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/cdfbce71d27e05f54d88d4024c1f555015ff1fad/src/drizzle/tables/actions.ts#L16)
+Defined in: [src/drizzle/tables/actions.ts:16](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/drizzle/tables/actions.ts#L16)

@@ -6,7 +6,7 @@
 
 > **ClientCustomScalars**: `object`
 
-Defined in: [src/graphql/scalars/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/cdfbce71d27e05f54d88d4024c1f555015ff1fad/src/graphql/scalars/index.ts#L27)
+Defined in: [src/graphql/scalars/index.ts:27](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/graphql/scalars/index.ts#L27)
 
 Map of custom scalar types used in talawa api used to annotate the type of those scalars to the clients consuming talawa api for type-safe usage of those scalars in the graphql operations.
 

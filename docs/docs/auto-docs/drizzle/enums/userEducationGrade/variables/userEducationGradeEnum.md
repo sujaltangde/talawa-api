@@ -6,6 +6,6 @@
 
 > `const` **userEducationGradeEnum**: `ZodEnum`\<\[`"grade_1"`, `"grade_2"`, `"grade_3"`, `"grade_4"`, `"grade_5"`, `"grade_6"`, `"grade_7"`, `"grade_8"`, `"grade_9"`, `"grade_10"`, `"grade_11"`, `"grade_12"`, `"graduate"`, `"kg"`, `"no_grade"`, `"pre_kg"`\]\>
 
-Defined in: [src/drizzle/enums/userEducationGrade.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/be8575be3c5989d76dd2f84308de81461931796c/src/drizzle/enums/userEducationGrade.ts#L6)
+Defined in: [src/drizzle/enums/userEducationGrade.ts:6](https://github.com/PalisadoesFoundation/talawa-api/blob/5c2e90552414053c7e52a1a2621c3724f43bf6ad/src/drizzle/enums/userEducationGrade.ts#L6)
 
 Possible variants of the education grade(if applicable) of a user.

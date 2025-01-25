@@ -6,4 +6,4 @@
 
 > **Event**: `ImplementableObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../../scalars/type-aliases/CustomScalars.md); \}\>, [`Event`](../type-aliases/Event.md), [`Event`](../type-aliases/Event.md)\>
 
-Defined in: [src/graphql/types/Event/Event.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/graphql/types/Event/Event.ts#L8)
+Defined in: [src/graphql/types/Event/Event.ts:8](https://github.com/PalisadoesFoundation/talawa-api/blob/c0493e690fb59bf2b3a98d1507811ac221fdc899/src/graphql/types/Event/Event.ts#L8)

@@ -6,7 +6,7 @@
 
 > **DefaultGraphQLConnectionEdge**\<`NodeType`\>: `object`
 
-Defined in: [src/utilities/defaultGraphQLConnection.ts:126](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/utilities/defaultGraphQLConnection.ts#L126)
+Defined in: [src/utilities/defaultGraphQLConnection.ts:126](https://github.com/PalisadoesFoundation/talawa-api/blob/c0493e690fb59bf2b3a98d1507811ac221fdc899/src/utilities/defaultGraphQLConnection.ts#L126)
 
 This is typescript type of a base graphql connection edge object. This connection edge object can be extended to create a custom connection edge object as long as the new connection edge object adheres to the default type of this base connection edge object.
 

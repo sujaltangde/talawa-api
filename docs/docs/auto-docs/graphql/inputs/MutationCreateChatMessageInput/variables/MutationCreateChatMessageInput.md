@@ -6,4 +6,4 @@
 
 > `const` **MutationCreateChatMessageInput**: `InputObjectRef`\<`ExtendDefaultTypes`\<\{ `Context`: [`GraphQLContext`](../../../context/type-aliases/GraphQLContext.md); `Scalars`: [`CustomScalars`](../../../scalars/type-aliases/CustomScalars.md); \}\>, `any`\>
 
-Defined in: [src/graphql/inputs/MutationCreateChatMessageInput.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/graphql/inputs/MutationCreateChatMessageInput.ts#L18)
+Defined in: [src/graphql/inputs/MutationCreateChatMessageInput.ts:18](https://github.com/PalisadoesFoundation/talawa-api/blob/c0493e690fb59bf2b3a98d1507811ac221fdc899/src/graphql/inputs/MutationCreateChatMessageInput.ts#L18)

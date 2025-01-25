@@ -6,7 +6,7 @@
 
 > **default**(`instance`, `opts`): `Promise`\<`void`\>
 
-Defined in: [src/plugins/seedInitialData.ts:179](https://github.com/PalisadoesFoundation/talawa-api/blob/2cc2354b3599462f5e9976dfd00bd2cfa22095cb/src/plugins/seedInitialData.ts#L179)
+Defined in: [src/plugins/seedInitialData.ts:179](https://github.com/PalisadoesFoundation/talawa-api/blob/c0493e690fb59bf2b3a98d1507811ac221fdc899/src/plugins/seedInitialData.ts#L179)
 
 ## Parameters
 

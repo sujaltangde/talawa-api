@@ -33,7 +33,7 @@ jobs:
       # menu. The branch "name" must match the branch in the 
       # "on.push.branches" section at the top of this file
       name: new-test-docs
-      url: https://docs-admin.talawa.io
+      url: https://docs-api.talawa.io
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -56,4 +56,4 @@ jobs:
           git config --global user.name "gh-actions"
           pnpm install --frozen-lockfile
           pnpm run build
-          pnpm deploy
+          pnpm run deploy

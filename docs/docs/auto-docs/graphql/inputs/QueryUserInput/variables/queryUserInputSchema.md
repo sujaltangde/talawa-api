@@ -6,4 +6,4 @@
 
 > `const` **queryUserInputSchema**: `ZodObject`\<\{ `id`: `any`; \}, `"strip"`, \{ `[key: string]`: `any`;  `id`: `unknown`; \}, \{ `[key: string]`: `any`;  `id`: `unknown`; \}\>
 
-Defined in: [src/graphql/inputs/QueryUserInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/31af62eb801979353402f1e291e74768cd64d85c/src/graphql/inputs/QueryUserInput.ts#L5)
+Defined in: [src/graphql/inputs/QueryUserInput.ts:5](https://github.com/PalisadoesFoundation/talawa-api/blob/cdfbce71d27e05f54d88d4024c1f555015ff1fad/src/graphql/inputs/QueryUserInput.ts#L5)

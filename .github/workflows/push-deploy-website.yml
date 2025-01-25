@@ -14,11 +14,11 @@ name: PUSH Workflow - Website Deployment
 on:
   push:
     branches:
-      - 'new-test-docs'   
-      
+      - 'new-test-docs'
+
 env:
   CODECOV_UNIQUE_NAME: CODECOV_UNIQUE_NAME-${{ github.run_id }}-${{ github.run_number }}
-  
+
 jobs:
   Deploy-Docusaurus:
     name: Deploy https://docs-admin.talawa.io website
@@ -39,6 +39,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20.x' 
+      - name: Install pnpm
+        run: |
+          npm install -g pnpm@9.15.4
+          pnpm --version
       - uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.DEPLOY_GITHUB_PAGES }}
@@ -50,6 +54,5 @@ jobs:
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "gh-actions"
-          yarn install --frozen-lockfile
-          yarn deploy
- 
+          pnpm install --frozen-lockfile
+          pnpm deploy

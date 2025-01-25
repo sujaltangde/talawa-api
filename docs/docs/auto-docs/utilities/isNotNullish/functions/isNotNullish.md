@@ -6,7 +6,7 @@
 
 > **isNotNullish**\<`T0`\>(`value`): `value is T0`
 
-Defined in: [src/utilities/isNotNullish.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/5c2e90552414053c7e52a1a2621c3724f43bf6ad/src/utilities/isNotNullish.ts#L12)
+Defined in: [src/utilities/isNotNullish.ts:12](https://github.com/PalisadoesFoundation/talawa-api/blob/a88e9b37389a25702f1dcb39c566193904da08be/src/utilities/isNotNullish.ts#L12)
 
 This function is used to check nullish state of a value passed to it. Nullish means the value being either `null` or `undefined`. If the value is found to be nullish, the function returns the boolean `false`, else it returns the boolean `true`.
 
